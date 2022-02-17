@@ -1,5 +1,8 @@
 ## Twitter friends Map
-****Before using make sure you have an access to Twitter API Elevated keys
+*Before using make sure you have an access to Twitter API Elevated keys
+
+**Also make sure that your current directory is a project directory to ommit errors
+(project uses os.getcwd)
 
 # How to Use
 1) Insert your API keys in the hidden.py
