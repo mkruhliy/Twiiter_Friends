@@ -5,10 +5,9 @@
 1) Insert your API keys in the hidden.py
 
 2) Run main.py modele and open the page http://127.0.0.1:8080/ in your browser
-img
-img
+![alt text](https://github.com/mkruhliy/Twiiter_Friends/blob/main/png/1.png?raw=true)
 3) Put down the nickname of anyone, who's Twitter friends locations you want to see and click "Map"
-img
+![alt text](https://github.com/mkruhliy/Twiiter_Friends/blob/main/png/1.png?raw=true)
 # Details
 *By running the program you does also create a JSON about your friends in your current dirrectory and finnal Map(Map.html) in the <templates> dir
 
